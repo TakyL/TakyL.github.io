@@ -1,0 +1,92 @@
+div {
+  display: block;
+  margin-right: 10px;
+  text-align: center;
+}
+
+li {
+  display: inline;
+  list-style: none;
+  margin-right: 10px;
+}
+
+.style_font_header
+{
+  font-size: larger;
+  color: blue;
+  font-weight: bolder;
+  font-size:32px;
+}
+
+.style_font_li
+{
+  font-size:24px;
+  color:white;
+}
+
+.style_back_con
+{
+  background-color: #a4b6b1;
+}
+
+
+
+.title_mc
+{
+  text-align: center;
+  background-color: #b3d4fc;
+  color: floralwhite;
+  padding-bottom: 3vh;
+}
+
+.title_portfolio
+{
+  text-align: center;
+  background-color: #b3d4fc;
+  padding-bottom: 5vh;
+  font-size: 50px ;
+}
+
+
+
+.no_margin
+{
+  margin: 0 0 0 0;
+}
+
+.prj_tbl
+{
+  width: 100%;
+  background-color: #a4b6b1;
+  border-collapse: collapse;
+}
+
+.ligne_tr_tbl
+{
+  border-bottom: 1px solid black;
+}
+
+.footer_aboutme
+{
+  font-size:20px;
+  padding-top:5vh;
+}
+
+.iconlogo
+{
+  width:32px
+  ;
+  height:32px;
+}
+
+.no_mright
+{
+  margin-right: 0;
+}
+#lang,#fm
+{
+  display: block;
+  margin-top:2vh;
+  margin-bottom: 2vh;
+}
+
